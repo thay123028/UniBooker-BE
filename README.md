@@ -191,19 +191,19 @@
 
 ## 🌐 접속 주소
 
-### [플랫폼 관리자 바로가기](https://www.unibooker.kro.kr/super/login)
+### [플랫폼 관리자 바로가기](https://www.unibooker.n-e.kr/super/login)
 
 - ID : super@unibooker.com
-- PW : super1234
+- PW : super1234!
 
-### [기업 관리자 바로가기](https://www.unibooker.kro.kr/admin/login)
+### [기업 관리자 바로가기](https://www.unibooker.n-e.kr/admin/login)
 
-- ID : admin@unibooker.com
-- PW : Lqwer1234!
+- ID : admin.cho@hanwha.com
+- PW : Admin1234!
 
-### [고객 바로가기](https://www.unibooker.kro.kr/c/hanwha-systems)
+### [고객 바로가기](https://www.unibooker.n-e.kr/c/hanwha-systems)
 
-- ID : test111@test.com
+- ID : user.jeon@hanwha.com
 - PW : qwer1234!
 
 
